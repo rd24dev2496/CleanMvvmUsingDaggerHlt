@@ -58,6 +58,7 @@ fun CoinDetailScreen(
                         text = "Tags",
                         style = MaterialTheme.typography.h3
                     )
+
                     Spacer(modifier = Modifier.height(15.dp))
                     FlowRow(
                         mainAxisSpacing = 10.dp,
