@@ -1,4 +1,3 @@
-/*
 package com.example.cryptocurrencyappcleanarchitecture.domain.model
 import android.os.Bundle
 import android.view.Surface
@@ -38,4 +37,4 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-}*/
+}
