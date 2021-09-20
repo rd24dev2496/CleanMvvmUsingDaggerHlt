@@ -1,3 +1,4 @@
+/*
 package com.example.cryptocurrencyappcleanarchitecture.domain.model
 
 import androidx.compose.foundation.layout.Box
@@ -27,4 +28,4 @@ fun CoinTag(
             style = MaterialTheme.typography.body2
         )
     }
-}
+}*/

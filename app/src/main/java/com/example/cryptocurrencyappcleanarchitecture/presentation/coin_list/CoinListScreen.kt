@@ -1,3 +1,4 @@
+/*
 package com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components
 
 import CoinListItem
@@ -55,4 +56,4 @@ fun CoinListScreen(
             CircularProgressIndicator(modifier = Modifier.align(Alignment.Center))
         }
     }
-}
+}*/

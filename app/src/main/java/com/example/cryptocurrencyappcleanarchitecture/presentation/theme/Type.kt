@@ -1,3 +1,4 @@
+/*
 package com.plcoding.cryptocurrencyappyt.presentation.theme
 
 import androidx.compose.ui.text.TextStyle
@@ -32,4 +33,4 @@ val Typography = Typography(
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     )
-)
+)*/

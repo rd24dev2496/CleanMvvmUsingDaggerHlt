@@ -1,3 +1,4 @@
+/*
 package com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components
 
 import androidx.compose.foundation.layout.Arrangement
@@ -40,4 +41,4 @@ fun CoinListItem(
             modifier = Modifier.align(CenterVertically)
         )
     }
-}
+}*/

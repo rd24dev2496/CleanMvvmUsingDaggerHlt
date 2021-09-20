@@ -1,3 +1,4 @@
+/*
 package com.example.cryptocurrencyappcleanarchitecture.domain.model
 
 import androidx.compose.foundation.layout.*
@@ -104,4 +105,4 @@ fun CoinDetailScreen(
             CircularProgressIndicator(modifier = Modifier.align(Alignment.Center))
         }
     }
-}
+}*/

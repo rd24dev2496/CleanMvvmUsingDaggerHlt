@@ -1,3 +1,4 @@
+/*
 package com.plcoding.cryptocurrencyappyt.presentation.coin_detail.components
 
 import android.graphics.fonts.FontStyle
@@ -34,4 +35,4 @@ fun TeamListItem(
             fontStyle = Italic
         )
     }
-}
+}*/
